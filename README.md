@@ -1,8 +1,3 @@
-![image](https://github.com/Vidhya0501/Day28Task22FSD_React_cart_page_contextAPI_Vidhya/assets/136892823/aa8377e5-d2db-41f3-89fc-48203fb8779c)
-
-![image](https://github.com/Vidhya0501/Day28Task22FSD_React_cart_page_contextAPI_Vidhya/assets/136892823/1a32478e-dbef-4ded-a680-522c35e664a0)
-
-![image](https://github.com/Vidhya0501/Day28Task22FSD_React_cart_page_contextAPI_Vidhya/assets/136892823/26e9132c-5735-4b42-b374-6b7eb1578a1f)
 
 
 
